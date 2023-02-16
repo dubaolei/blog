@@ -1,4 +1,4 @@
-baseurl = "http://dubaolei.github.io/"
+baseurl = "http://dubaolei.github.io/blog"
 title = "Du Baolei's Blog"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
